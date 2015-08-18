@@ -1,1 +1,122 @@
-test
+REGLAS DE PELEAS DE ROBOT
+
+
+Dixia Aizpurua
+9-715-2290
+
+A continuación presento un recopilado de la investigación realizada respecto a las diferentes reglas de peleas de robots en diferentes combates:
+
+Competencia
+Se considerara ganador a cualquier robot que venza a su oponente de las siguientes formas:
+1. Eliminación: el robot deberá movilizar fuera del área de combate a su oponente en tres ocasiones.	 
+2. Neutralización: el robot deberá inmovilizar durante 1 minuto  al adversario y finalizara la lucha. 
+3. Destrucción: el robot que cause daños estructurales a su oponente de tal forma que este no pueda seguir en la competencia será declarado ganador. 
+4. Ausencia: si su contrincante  no se  presenta luego del tercer llamado (1 minuto cada llamado) 
+5. Rendición: esta victoria se da cuando el contrincante se rinde; a fin de evitar daños a su robot.
+
+	La competencia presenta ciertos tiempos establecidos los cuales se describen a 	continuación:
+1. Tiempo de Combate:  cada lucha tendrá una duración de 10 minutos. 
+2. Tiempo de Neutralización: con una duración de 1 minuto, es el tiempo de duración máximo permitido para que un contrincante sea considerado neutralizado. 
+3. Tiempo de Reparación: es el tiempo en el que los participantes realizan reparaciones a los prototipos.  No existe un tiempo limite, sin embargo, el robot siempre deberá estar listo para el combate. 
+4. Tiempo de ausencia: antes de darse el combate se realizaran 3 llamados a cada contrincante.  El tiempo de ausencia es de 1 minuto, por lo que luego de 3 minutos el participante perderá por ausencia.
+
+Dojo de Competencia
+	Se debe definir las dimensiones del área de combate.
+
+Normativa en Pista 
+
+1. Los robots antes de enfrentarse serán ubicados en esquinas opuestas, los responsables de cada equipo estarán ubicados dentro del área de control. 
+2. Todos los robots deberán estar aptos para poder competir en el momento de su turno, de lo contrario se les dará 5 minutos como máximo de tolerancia; en caso excedan el tiempo de tolerancia los jurados tendrán la opción de anular el turno respectivo. 
+3. El rol de peleas será realizado mediante un previo sorteo entre todos los competidores, esto se dará momentos antes del concurso. Si llegara a ocurrir que 2 o mas robots tengan la misma frecuencia, se hará un sorteo acorde con la situación .
+4. Una vez que los jueces indique el inicio del enfrentamiento nadie podrá ingresar total ni parcialmente al área de competencia, en caso de que alguno de los operadores incumpla con esta norma será sancionado con puntos en contra. 
+5. Cada combate constara de 2 enfrentamientos, los cuales cada enfrentamiento será de 4 minutos. 
+6. Entre cada enfrentamiento habrá un tiempo de 1 minuto para que puedan verificar a su robots, sin poder hacer cambios en su estructura, ni recargar las baterías. 
+7. Una vez concluido los 2 enfrentamientos que dura un combate, podrán hacer las reparaciones y cambios necesarios a los robots, para que estos se encuentren en buenas condiciones para el próximo combate. 
+8. En caso de que un robot arrincone a su contrincante, y no le permita libre movimiento, el responsable del robot inmovilizado deberá avisar a los jueces, para que den la orden de separar a los robots y ubicarlos en sus esquinas, y así continuar con el combate, y por ende dándole los puntos al robot causante de la inmovilización de su contrincante.
+9. En caso de desprendimiento de piezas de los robots, los jueces deberán pausar el enfrentamiento y pedir que retiren las piezas desprendidas, a fin de evitar accidentes. 
+10. Los jueces, podrán parar la contienda cuando lo consideren necesario con el fin de permitir la entrada de los responsables de equipo al ring de batalla.
+11. Cuando los jueces de pistas den por finalizado el tiempo de combate, los representantes de cada equipo procederán a retirar los robots del área de batalla y se saludarán.
+
+
+Normas de Seguridad:
+  
+Durante la competencia,	 ninguna persona  podrá	 acercarse a	 la zona  de	 combate.  Si por cualquier  motivo es necesario que alguna persona entre en la zona de combate la competencia sera detenida hasta que dicha persona salga del área.
+
+Movilidad
+	Caminante: podrá utilizar solo dos extremidades para desplazarse.
+
+Criterios de Clasificación y Puntuación 
+	Aquel robot que acumule más puntos será el ganador. Los puntos son los siguientes: 
+
+
+
+
+
+
+
+
+1. Inhabilitación:  se considera que un robot participante inhabilita al oponente cuando este deja de funcionar y/o responder a su control remoto, este no puede desplazarse libremente por causa de su contrincante. .
+2. Embestidas: se considera que un robot participante embiste a su oponente cuando se dirige hacia el y lo impacta frontalmente. 
+3. Uso de Armas: se considera uso de armas cuando el robot participante usa su arma contra el oponente de forma intencional, en caso de ser un arma de impacto, cada vez que el arma impacte al oponente se considera un punto, en caso de ser un Arma de corte (sierras), cada vez que las armas tengan contacto con el oponente. 
+4. El robot contrario toque el espacio fuera del ring.
+5. Cuando el robot contrario sea derribado.
+
+
+Penalizaciones
+1. Cuando un miembro del equipo entre dentro del área de combate sin la previa autorización del juez de pista. 
+2. Cuando se realice la activación del robot antes de que los jueces lo indiquen. 
+3. Hacer alguna cosa que remita contra la integridad de la organización así como a la de sus participantes.
+
+Violaciones 
+	Será considerara una violación por parte de un equipo los siguientes supuestos: 
+1. Cualquier competidor que insulte verbalmente, gestualmente o físicamente al oponente, juez o algún espectador, será eliminado automáticamente. 
+2. Cualquier robot que posea artefactos que produzcan sonido con palabras ofensivas hacia alguna persona, o tenga imágenes o palabras de la misma índole sobre el cuerpo del robot o produzca algún tipo de acción inapropiada, será declarado eliminado del evento. 
+3. El respeto hacia los demás competidores, los espectadores y el evento, es una muestra aun más grande de su capacidad intelectual. 
+4. Los competidores no pueden poner ninguna parte del cuerpo sobre el terreno de combate mientras estén dos robots compitiendo. 
+5. No es permitido detener el tiempo sin razón alguna. 
+6. Los competidores deben esperar la orden de los jueces para poder ubicar y recoger los robots de la arena de combate. 
+7. Esta prohibido objetar las decisiones de los jueces ya que estos han sido seleccionados para velar por las reglas con justicia y equidad. Los jueces tienen total autoridad sobre las reglas del evento. Alegar de manera agresiva u ofensiva a un juez será causa de eliminación del equipo en esa categoría. 
+
+Petición de parada de un combate 
+El responsable de uno de los equipos contrincantes puede pedir la detención del juego cuando su robot haya tenido un accidente que le impida continuar el juego. Será responsabilidad del juez de pista aceptar la petición y decidir si la parada puede ser motivo de punto para alguno de los equipos implicados. 
+
+Retiro de la Competencia 
+Si El Responsable de uno de los equipos participantes puede pedir su retiro de la competencia, cuando su robot haya tenido una falla o inconveniente que le impida continuar la competencia. Quedando a criterio de los jueces si aceptan la petición y eliminan el Robot y decidir si la parada puede ser motivo de la clasificación del otro Robot.
+
+
+Tiempo de reparaciones 
+En caso de accidente grave, el juez de pista podrá decidir si el juego es reanudado o no. En caso afirmativo, los equipos implicados dispondrán de 5 minutos para efectuar las reparaciones pertinentes y una vez acabado este tiempo se reanudará el combate. 
+Si uno de los equipos no ha presentado su robot operativo para el combate en este tiempo, éste será declarado como perdedor. En caso de que ninguno de los dos robots se presente después de los 5 minutos de reparaciones, el juez de pista anulará el combate o proclamará un vencedor. 
+
+Reclamos 
+El Responsable de un Equipo puede alegar cualquier motivo de sospecha de incumplimiento de la normativa por parte de su contrincante al juez de pista, siempre que se haga antes de que se haya dado inicio a la competencia entre ellos. 
+El juez de pista habrá de decidir si es fundado el alegato e impone las sanciones de ser el caso.
+
+Especificaciones del Robot
+1. Se deben especificar las dimensiones del robot.
+2. Se debe especificar el peso máximo de los robots. con una tolerancia del 5% como máximo, incluyendo las baterías y sin incluir el peso del control remoto.
+3. Está prohibido el uso de Materiales peligrosos que puedan hacer contacto con seres humanos, también están prohibidos: Metales pesados y tóxicos, Material Reactivo, Fibras toxicas y riesgosas (asbestos), Plomo expuesto, Espuma de líquidos expandibles, campos magnéticos que puedan interferir, desprendimiento de partes del robot, entre otros mas que puedan causar algún daño considerable. 
+4. No se permite motores de combustión. 
+5. No se permiten armas que desprendan proyectiles, fluidos ni lanzallamas. 
+6. Se pide a los participantes tener por lo menos 2 medios de control, en caso de usar radio frecuencia se pide el uso de 2 frecuencias. 
+
+Los equipos
+1. Se entiende por Equipo el grupo de personas que presentan un Robot. Se debe definir el máximo de integrantes en los equipos. 
+2. Pertenencia .  Ningún integrante de un Equipo podrá formar parte de otro Equipo. 
+3. Responsable por Equipo .  Se entenderá por persona responsable del Equipo aquella que figure como tal en la inscripción del concurso. No es posible cambiar el Responsable del Equipo por otra persona, salvo causa mayor justificada.  Solo el Responsable del Equipo podrá estar dentro de la zona de seguridad controlando al robot.  El Responsable de Equipo es el único que puede solicitar tiempo, retiro de competencia, o hacer cualquiera de los reclamos estipulados en el presente reglamento. 
+
+Recomendaciones y disposiciones Finales
+1. En el diseño del robot, buscar siempre la máxima fiabilidad, dotando al robot de la mayor robustez posible, ya que durante la competición el tiempo para reparaciones de último minuto será mínimo. 
+2. Cada equipo debe encargarse de traer a la competición las herramientas necesarias para utilizar y/o reparar el robot en caso de avería. 
+3. La organización buscará proporcionar una mesa y una toma de energía para cada equipo.  
+4. Las normativas anteriormente citadas son la base del concurso, y debe ser respetada por todos los participantes. 
+5. El incumplimiento de estas normas serán sancionadas de acuerdo a lo estipulado en las mismas, o de acuerdo a la decisión tomada por la comisión organizadora. 
+6. El reglamento aquí expuesto se encuentra sujeto a revisiones por parte de la organización y ésta posee el derecho de modificarla en parte o en su totalidad, debiendo comunicarlo adecuadamente a los interesados. 
+7. Cualquier cuestión no contemplada en el presente reglamento será resuelta por la organización, y la decisión que tome será de carácter inapelable.
+
+
+Bibliografia
+Concurso de Robótica. 8e0988_Reglamento_Batalla_de_Robots_FIE_2008.pdf
+Concurso de Robótica Verde. 56982405-Reglas-Batalla-de-Robots.pdf
+Universidad Autónoma Nuevo León. Reglamento de Combate de Robot. Reglamento.pdf
+IX Concurso Nacional Guerra de Robot México.  ReglamentoIXGuerra.pdf
