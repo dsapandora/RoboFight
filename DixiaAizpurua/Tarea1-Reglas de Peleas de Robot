@@ -46,15 +46,7 @@ Movilidad
 	Caminante: podrá utilizar solo dos extremidades para desplazarse.
 
 Criterios de Clasificación y Puntuación 
-	Aquel robot que acumule más puntos será el ganador. Los puntos son los siguientes: 
-
-
-
-
-
-
-
-
+Aquel robot que acumule más puntos será el ganador. Los puntos son los siguientes: 
 1. Inhabilitación:  se considera que un robot participante inhabilita al oponente cuando este deja de funcionar y/o responder a su control remoto, este no puede desplazarse libremente por causa de su contrincante. .
 2. Embestidas: se considera que un robot participante embiste a su oponente cuando se dirige hacia el y lo impacta frontalmente. 
 3. Uso de Armas: se considera uso de armas cuando el robot participante usa su arma contra el oponente de forma intencional, en caso de ser un arma de impacto, cada vez que el arma impacte al oponente se considera un punto, en caso de ser un Arma de corte (sierras), cada vez que las armas tengan contacto con el oponente. 
