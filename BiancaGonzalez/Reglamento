@@ -1,0 +1,94 @@
+Sistemas Expertos
+Reglamentos para peleas de Robot
+Nombre Bianca Gonzalez Navas
+ 
+El siguiente conjunto de reglas está basada en el reglamento general de la competencia de 
+categoría sumo  
+ 
+Objetivo del Juego 
+El robot debe desplazar a su contrincante fuera del Anillo, en un plazo de 2 minutos.   
+ 
+Escenario 
+La superficie de juego corresponde a un tablero de melamina cuadrada de 1300[mm] de                            
+lado, de color blanco, y con 15 [mm] de altura.   
+Un anillo de 50[mm] de ancho, de color negro (hecho de cinta aislante 3M de 19 mm)                                  
+encierra una circunferencia de diámetro 1000[mm].   
+Éste se ubicará de tal forma de tener al menos 150[mm] entre el borde del tablero.  
+En su interior, se encuentran 2 líneas paralelas rojas, de 19[mm] de ancho y 160[mm] de                                
+largo, separadas 300[mm] una de la otra.  
+Las líneas paralelas se encuentran a una distancia de 150 [mm] de un diámetro de la                                
+superficie circular. Los puntos medios de dichas paralelas son colineales dentro de un                          
+diámetro perpendicular al anterior. Imagen 1 representativa del anillo.  
+ 
+Modalidad de Combate 
+1. Un representante por equipo esperará la orden del juez para iniciar la rutina de su robot.                                  
+Por el momento, ambos robots se encuentran tras las líneas rojas.  
+2. Al dar la orden, el representante debe pulsar solo una vez el botón para iniciar la rutina de                                      
+su robot, el cual deberá tener un retardo de al menos 3 segundos. Durante el proceso del                                  
+combate, los participantes no podrán tocar el robot en otra ocasión (En caso de que el robot                                  
+no inicie el programa, queda bajo responsabilidad de los participantes)  
+3. Iniciada la rutina, cada robot debe luchar por cumplir con el objetivo del juego, bajo las                                  
+restricciones y reglas establecidas por la organización.  
+4. El tiempo máximo de cada combate es de 2 minutos. El tiempo será tomado digitalmente                                
+en computador y proyectado en una pantalla dispuesta por la organización.  
+5. Si alguna parte de la estructura del robot toca la superficie blanca fuera del anillo circular,                                  
+el robot contrincante se lleva la victoria del combate.   
+6. En caso de que ninguno de los robots salga fuera del anillo circular dentro del tiempo                                  
+establecido, el combate se considera como empate.  
+7. Si por algún motivo uno de los Robots detiene su movimiento sin trasladarse durante más                                
+de 10 segundos, el Robot contrincante obtendrá la victoria.  
+ 
+Restricciones Robots: El Robot debe cumplir con las siguientes condiciones: 
+● Peso máximo 1.5 [Kg] y mínimo 0.8 [Kg].*  
+● Su tamaño no puede sobrepasar en ningún momento un cubo de 155 [mm] de lado.*  
+● Debe ser totalmente autónomo.*** 
+ ● Debe tener un botón para iniciar su rutina, activado con un solo toque.***  
+● Luego de presionar el botón el robot no puede actuar antes de pasados 3 segundos.***  
+● Solo se pueden emplear sistemas no móviles con tal de cumplir con el objetivo del                                
+juego.*** ● No está permitido el uso de emisores de luz que afecten las mediciones del                                
+robot contrincante.***   
+● No está permitido que el robot derrame líquidos o cualquier sustancia que atente la                              
+trayectoria del robot contrincante o ensucie el escenario. ***  
+● No puede comunicarse con el exterior del escenario.***  
+● No puede cargarse programas diferentes entre combates de la misma ronda*  
+*causal de descalificación en la ronda equivalente a una no presentación.   
+***causal de descalificación de la categoría, no pudiendo competir en esta 
+ 
+Reglas de cada Ronda 
+● Por cada ronda se tomarán medidas y pesos a los robots para asegurar que se cumplan                                  
+las restricciones establecidas anteriormente.  
+● Cada ronda se llevará a cabo al mejor de 3 combates, definiendo al ganador como el                                  
+robot que haya ganado más combates, sumando 3 puntos a su equipo.  
+● En caso de que no se resuelva ganador de una ronda, cada equipo suma 1 punto.   
+● Durante la ronda podrá haber un solo representante por equipo asistiendo el robot.   
+● Si existe algún desperfecto mecánico visible, el juez tiene la facultad de parar por única                                
+vez en la ronda, uno de los tres combates. El tiempo para reparar el desperfecto será de a                                    
+lo más 3 minutos (tiempo medido por el árbitro). Los equipos deben llevar los implementos                              
+necesarios antes que inicie la ronda y ponerlos en un mesón dispuesto para reparaciones                            
+(La posición de este mesón será definida por la organización).  
+● Durante el periodo activo de los robots no debe existir intervención en el escenario por                                
+parte de alguno de los representantes de equipo hasta que el árbitro lo indique.  
+● No se permite hacer reclamos a los árbitros mientras se realiza la Ronda.  
+● El representante puede decidir retirar a su robot del combate perdiendo la Ronda                            
+completa indicando previamente al árbitro.  
+● Al presionar el botón de inicio los robots no podrán moverse hasta después de 3                                
+segundos. ● La superficie de melamina con el centro circular se encontrará en el suelo y                                
+sólo ésta constituye el escenario.  
+● Se considera que el robot queda fuera del escenario cuando cualquier punto de apoyo                              
+queda fuera del anillo circular.   
+ 
+Sistema de Rondas 
+1. Cada robot se enfrentará a todos los demás de la categoría por lo cual, la cantidad de                                    
+Rondas queda dada por la combinatoria de n sobre 2: C , n 2 = n! 2*(n−2)! = 2 n*(n−1)                                        
+donde n es el número de equipos inscritos en la categoría.   
+2. La elección del orden de los combates será aleatoria, una vez que se tenga la lista de                                    
+inscritos acreditados de esta categoría.  
+3. Los horarios y fechas de las rondas serán publicados luego de contar con la lista de                                  
+inscritos acreditados de esta categoría en el sitio web del evento.   
+4. Los representantes y sus robots deben presentarse en el escenario correspondiente a la                            
+hora y fecha acordada, de lo contrario pierden la ronda.  
+5. Los escenarios que se utilizarán en las rondas no podrán ser utilizados para pruebas. 
+ 
+Bibliografía
+http://www.competenciarobotica.cl/2015/wp­content/uploads/2015/08/Bases­Generales­Com
+petencia­Rob%C3%B3tica­2015.pdf 
