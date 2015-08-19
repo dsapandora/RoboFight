@@ -1,0 +1,41 @@
+Alexey Evdokimov  EC-95-9698
+Sistemas Experto
+
+Reglas de Robo-One
+
+Robots-Peliadores
+Para las competiciones de robots humanoides que están obligados a tener dos brazos móviles y dos piernas. 
+La altura del robot debe ser de al menos 20 cm, pero no más de 120 cm. 
+El tamaño del pie diagonal menos de 15 cm. 
+Intersección en las plantas está estrictamente prohibido. 
+El peso de la robot no está limitado.
+
+Prueba para android
+Antes de ser admitido en los combates, el robot todavía tiene que demostrar que es un androide de pleno derecho. 
+Para empezar hay que poner en marcha a más tardar 30 segundos después de encender. 
+Entonces - seguir adelante y cambiar la dirección del movimiento por dos pies, y los pies deben estar dobladas y sin doblar completamente claro fuera de la tierra. 
+En caso de caida el robot debe dejar de moverse, pero despues debe pararse.
+Estas habilidades son las que muestran al jurado para ser clasificado. 
+El robot debe poder caminar, caer, pararse.
+
+Competiciones señores
+De hecho, la lucha contra el Robo-One se asemejan Inglés boxeo era de Lord Byron con sus reglas caballerescas. 
+Los robots tienen prohibido el uso cuchillas o brocas, dispositivos adhesivos, agua, aparatos de gas, luces estroboscópicas y láseres encendedores para el cegamiento del enemigo. 
+Los árbitros están facultados para reconocer un dispositivo y poco caballeroso para prohibirlo. 
+Al final, las batallas se llevan a cabo con los puños, pies y cabeza.
+
+Luchas
+Al igual que en el boxeo, a los robots los pesan y se dividen en grupos de peso ligero y pesado.
+Las peleas tienen lugar en una cubierta plana de madera de dos por dos metros.
+Y suena comando "Listo!" y entonces un silbato - la batalla!
+Robots convergen, tratando de golpear al oponente para enviar en un nocaut o caída. 
+Derribo considerado a caer, después de lo cual el robot derrotado puede subir por cuenta propia árbitro "10".
+La caída, después de lo cual el soldado ya no puede subir es un knockout.
+Si caen ambos androides lo importante es quien se levanta primero. 
+Despues de qeu uno se levanta empiesa el conteo para el otro.
+Si ninguno puede levantarse entonses es un empate.
+Partidos constan de tres asaltos de tres minutos.
+
+
+Bibliografia
+http://www.popmech.ru/technologies/5725-bitvy-dvunogikh-boevye-chelovekopodobnye-roboty/#full
