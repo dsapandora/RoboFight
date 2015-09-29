@@ -7,7 +7,7 @@ use warnings;
 my $num_args = $#ARGV + 1;
 if ($num_args != 1) {
 	print "\nNumber of arguments: $num_args\n";
-	print "\nUsage: translate_motion.pl foo.mtn \n";
+	print "\nUsage: MotionParser.pl foo.mtn \n";
 	exit;
 }
 
