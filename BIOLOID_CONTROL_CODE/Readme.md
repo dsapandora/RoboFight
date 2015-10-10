@@ -61,3 +61,6 @@ cd Skeltrack-master
 ./configure --prefix=/usr --enable-examples=yes --enable-tests=yes
 make
 make install
+
+install cairo
+sudo apt-get install libcairo2-dev
