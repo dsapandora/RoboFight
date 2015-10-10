@@ -19,3 +19,27 @@ avrdude	Programm to upload applications onto a AVR device
 WINDOWS
 
 Descargar AMTEL- STUDIO
+
+
+Para compilar el skelteton tracker
+instalar
+
+Necesitan igualmente el driver de la kinect
+
+GFreenect:
+wget https://github.com/elima/GFreenect/archive/master.zip
+unzip master.zip 
+cd GFreenect-master
+./autogen.sh
+./configure --prefix=/usr
+make
+make install
+
+Skeltrack:
+wget https://github.com/joaquimrocha/Skeltrack/archive/master.zip
+unzip master.zip 
+cd Skeltrack-master
+./autogen.sh 
+./configure --prefix=/usr --enable-examples=yes --enable-tests=yes
+make
+make install
