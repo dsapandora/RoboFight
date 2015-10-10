@@ -42,6 +42,33 @@ libgtk3.0-cil-dev
 
 ./configure --disable-shared --enable-staticfatal error: gfreenect.h
 
+Grab the packages you'll need to compile libusb and libfreenect:
+
+sudo apt-get install git cmake build-essential
+sudo apt-get install freeglut3-dev libxmu-dev libxi-dev
+sudo apt-get install libudev-dev
+
+Remove the existing libusb, if it's there:
+
+sudo apt-get remove libusb-1.0-0-dev
+
+Grab the sources for libusb-1.0.18:
+
+wget http://sourceforge.net/projects/libusb/files/libusb-1.0/libusb-1.0.18/libusb-1.0.18.tar.bz2
+tar -xvf libusb-1.0.18.tar.bz2
+
+Build and install the updated libusb:
+
+cd libusb-1.0.18/
+./configure --prefix=/usr --disable-static
+make
+sudo make install
+
+Ugly hack to convince libfreenect to use the new libusb library:
+
+sudo ln -s /usr/lib/libusb-1.0.so /usr/lib/arm-linux-gnueabihf/libusb-1.0.so
+
+Then you should be able to build libfreenect.
 
 git clone https://github.com/OpenKinect/libfreenect
 mkdir build
@@ -53,7 +80,34 @@ sudo apt-get install gtk-doc-tools
 
 GFreenect:
 wget https://github.com/elima/GFreenect/archive/master.zip
-unzip master.zip 
+unzip master.zip Grab the packages you'll need to compile libusb and libfreenect:
+
+sudo apt-get install git cmake build-essential
+sudo apt-get install freeglut3-dev libxmu-dev libxi-dev
+sudo apt-get install libudev-dev
+
+Remove the existing libusb, if it's there:
+
+sudo apt-get remove libusb-1.0-0-dev
+
+Grab the sources for libusb-1.0.18:
+
+wget http://sourceforge.net/projects/libusb/files/libusb-1.0/libusb-1.0.18/libusb-1.0.18.tar.bz2
+tar -xvf libusb-1.0.18.tar.bz2
+
+Build and install the updated libusb:
+
+cd libusb-1.0.18/
+./configure --prefix=/usr --disable-static
+make
+sudo make install
+
+Ugly hack to convince libfreenect to use the new libusb library:
+
+sudo ln -s /usr/lib/libusb-1.0.so /usr/lib/arm-linux-gnueabihf/libusb-1.0.so
+
+Then you should be able to build libfreenect.
+
 cd GFreenect-master
 ./autogen.sh
 ./configure --prefix=/usr
