@@ -26,6 +26,24 @@ instalar
 
 Necesitan igualmente el driver de la kinect
 
+
+
+libgtk-3-dev
+libmutter-dev
+libwnck-3-dev
+libgnome-menu-3-dev
+libupower-glib-dev
+gobject-introspection
+Also, I am not sure these two packages are needed because they already installed in my system:
+
+libglib3.0-cil-dev
+libgtk3.0-cil-dev
+
+
+./configure --disable-shared --enable-staticfatal error: gfreenect.h
+
+
+
 GFreenect:
 wget https://github.com/elima/GFreenect/archive/master.zip
 unzip master.zip 
