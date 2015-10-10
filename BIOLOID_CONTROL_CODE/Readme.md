@@ -43,6 +43,13 @@ libgtk3.0-cil-dev
 ./configure --disable-shared --enable-staticfatal error: gfreenect.h
 
 
+git clone https://github.com/OpenKinect/libfreenect
+mkdir build
+cmake /L ..
+make
+make install
+sudo apt-get install gtk-doc-tools
+
 
 GFreenect:
 wget https://github.com/elima/GFreenect/archive/master.zip
